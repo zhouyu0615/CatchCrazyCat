@@ -271,7 +271,7 @@ public class Playground extends SurfaceView implements OnTouchListener {
 			}
 
 			moveto(best);
-			System.out.println("移动到：" + best);
+			//System.out.println("移动到：" + best);
 
 		}
 
